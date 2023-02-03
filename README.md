@@ -11,6 +11,6 @@ Um minerador acha um geodo de ametista e tanta o proteger a todo custo dos geodo
 - [pygame](https://www.pygame.org/)
 
 ##colaboradores 
-Diego Luiz 
-Renato richard 
-Rodrigo oliveira 
+##Diego Luiz 
+##Renato richard 
+##Rodrigo oliveira 
